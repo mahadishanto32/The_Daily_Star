@@ -1,0 +1,25 @@
+.title-font{
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: 900;
+}
+.moto{
+    color: orange;
+}
+.link-add{
+    text-decoration: none;
+    color: rgb(49, 49, 56);
+    font-weight: 700;
+}
+.link-button{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 700;
+}
+.home{
+    text-decoration: none;
+    color: black;
+    font-weight: 200;
+}
